@@ -1,6 +1,7 @@
 # Write your code here.
 
- badge_maker = ["Alan","Grace","Lines","Matz"])
+ name = ["Alan","Grace","Lines","Matz"])
+ badge_maker("Ariel")
  puts "Hello, my name is #{name}."
 
 
