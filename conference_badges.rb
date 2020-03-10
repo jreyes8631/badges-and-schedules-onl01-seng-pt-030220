@@ -1,7 +1,14 @@
 # Write your code here.
 
- name = ["Alan","Grace","Lines","Matz"])
- badge_maker("Ariel")
+ def badge_maker = ["Alan","Grace","Lines","Matz"])
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ end
  
 
 
