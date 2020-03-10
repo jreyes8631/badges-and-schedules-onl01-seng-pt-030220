@@ -1,6 +1,8 @@
 # Write your code here.
 
-badge_maker(["Alan","Grace","Lines","Matz"])
+Def badge_maker = (["Alan","Grace","Lines","Matz"])
 
+
+end
 
  
